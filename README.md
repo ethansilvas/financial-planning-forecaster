@@ -1,4 +1,4 @@
-# Module 5 Challenge - Financial Planning Forecaster
+# Financial Planning Forecaster - UW Fintech Bootcamp Module 5 Challenge
 
 This project is my evaluation and forecasting of an example portfolio with crypto, stocks, and bonds to see if the assets would currently be enough for an emergency fund or would grow enough to be a stable retirement fund. I make use of the Free Crypo API and Alpaca Trade API to get recent prices of select crypto, stocks, and bonds to calculate the current value of the portfolio, then use historical data in Monte Carlo simulations to forecast the 95% confidence interval of what the portfolio may look like in 10 and 30 years. 
 
